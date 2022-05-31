@@ -3,4 +3,5 @@ This project was done during ALX software engineering programm
 The aim of the project was to make learner understand Shell,standard I/O redirections
 and filters.
 
+echo "Hello World"   This script print Hello World
 
